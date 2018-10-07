@@ -16,3 +16,8 @@ Transpile all assets and keep a watch over them with
 ```bash
 npm run assets-watch
 ```
+
+### Start the application
+```bash
+adonis serve --dev
+```

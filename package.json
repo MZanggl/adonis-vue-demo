@@ -31,7 +31,7 @@
     "@adonisjs/session": "^1.0.27",
     "@adonisjs/shield": "^1.0.8",
     "browser-cookies": "^1.2.0",
-    "laravel-mix": "^2.1.14"
+    "laravel-mix": "^4.0.15"
   },
   "devDependencies": {
     "vue": "^2.5.17",

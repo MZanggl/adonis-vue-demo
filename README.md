@@ -1,6 +1,6 @@
 # Adonis Vue Demo
 
-This is a fullstack boilerplate for AdonisJs and Vue
+This is a fullstack boilerplate/blueprint/demo for AdonisJs and Vue. Check out the [blog post](https://dev.to/mzanggl/build-fullstack-javascript-apps-with-adonis-and-vue-3edc) to see how it is set up.
 
 
 ### Migrations
@@ -15,4 +15,9 @@ adonis migration:run
 Transpile all assets and keep a watch over them with
 ```bash
 npm run assets-watch
+```
+
+### Start the application
+```bash
+adonis serve --dev
 ```
